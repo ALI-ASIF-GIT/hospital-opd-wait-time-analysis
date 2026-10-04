@@ -1,0 +1,6 @@
+TriageCategory,avg_wait_minutes,total_visits
+Non-urgent,74.7,2067
+Semi-urgent,49.7,1480
+Urgent,26.2,960
+Emergency,12.8,399
+Immediate,5.0,94

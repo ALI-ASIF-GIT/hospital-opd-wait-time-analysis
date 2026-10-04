@@ -1,0 +1,2 @@
+total_patients,avg_wait_minutes,max_wait_minutes,min_wait_minutes,avg_total_time_in_hospital
+5000,51.7,355.7666667,1.0,164.2

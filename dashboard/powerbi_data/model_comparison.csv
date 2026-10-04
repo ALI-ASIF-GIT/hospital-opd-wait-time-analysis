@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2,Accuracy_pct
+Random Forest,27.39,40.16,0.251,41.1
+Linear Regression,27.75,40.17,0.251,40.1
+KNN,32.24,43.94,0.103,25.7

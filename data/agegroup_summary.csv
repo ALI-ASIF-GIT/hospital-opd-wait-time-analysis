@@ -1,0 +1,5 @@
+AgeGroup,avg_wait_minutes,total_visits
+Adult (36-60),50.9,1294
+Young Adult (18-35),52.3,1253
+Pediatric (0-17),51.6,1230
+Senior (61+),52.2,1223

@@ -1,0 +1,11 @@
+Department,avg_wait_minutes,total_visits,max_wait_minutes
+Neurology,64.0,499,322.4
+Internal Medicine,61.2,505,326.7
+Orthopedics,57.6,492,307.3
+General Surgery,55.4,506,293.9
+Cardiology,53.7,485,309.7
+Oncology,50.2,530,355.8
+Emergency,47.6,486,282.7
+Pediatrics,44.3,527,266.4
+Obstetrics,41.9,481,206.5
+Radiology,41.1,489,215.4

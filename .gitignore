@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Raw dataset is not redistributed (download from Kaggle, see data/raw/README.md)
+data/raw/*.csv

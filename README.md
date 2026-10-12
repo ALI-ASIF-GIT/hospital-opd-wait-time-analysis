@@ -293,7 +293,8 @@ print(model.predict(patient))   # expected wait in minutes
 
 ## Author
 
-**Asif Ali** | B.Tech CSE (AI), Jamia Hamdard
+**Asif Ali** | Junior Assistant, HIS IT at HIMSR & HAHC Hospital
+Built as a personal project alongside my work in hospital data systems. It uses a **public Kaggle dataset**, not data from my employer.
 [LinkedIn](https://linkedin.com/in/asif-ali-083202208) · [GitHub](https://github.com/ALI-ASIF-GIT)
 
 ## License
